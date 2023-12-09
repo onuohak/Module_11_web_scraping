@@ -1,4 +1,6 @@
 # Module_11_web_scraping
+I worked with classmates to complete this assignment. 
+
 
 Requirements
 Part 1: Scrape Titles and Preview Text from Mars News (40 points)
